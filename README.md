@@ -1,5 +1,5 @@
 
-# LoginModel Using NodeJS With JWT token
+# User Authentication Using JWT token
 
 This Project is the Authentication operation of the User. like Userlogin, Usersignup, GetUserProfile, DeleteUser, Userlogout and UserUpdate. When you create any project you need an Authorized mechanism. for example, if you create an e-commerce website or application at that time you need to store all customer data therefore you need this LoginModel. In any project when any person first time goes to your app that person is first to create an account and then login into your app. when the user is logged in then only go to the home page otherwise not. this type of functionality is used most of the time in real-time applications. This is a login Model with token JWT and testing With Jest. In This App main operations Like Create, Read(Get), Update, and Delete. All Operation is connected with a JWT token, which Means Once You Loggin Into Your App Then only Perform Other Operation Like Get, Update, Delete, etc. Now Frist Understand All mechanisms. 
 ## FlowChart
@@ -42,5 +42,5 @@ This Project is the Authentication operation of the User. like Userlogin, Usersi
 
 ## Blog Link
 
-[LoginModel Using NodeJS With JWT token](https://medium.com/@20it026/loginmodel-using-nodejs-with-jwt-token-36577f44fadf)
+[LoginModel Using NodeJS With JWT token](https://medium.com/@20it026/user-authentication-using-jwt-token-d7d6696a6693)
 
