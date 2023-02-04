@@ -42,5 +42,5 @@ This Project is the Authentication operation of the User. like Userlogin, Usersi
 
 ## Blog Link
 
-[LoginModel Using NodeJS With JWT token](https://medium.com/@20it026/user-authentication-using-jwt-token-d7d6696a6693)
+[User Authentication Using JWT token](https://medium.com/@20it026/user-authentication-using-jwt-token-d7d6696a6693)
 
